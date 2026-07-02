@@ -1,3 +1,15 @@
+
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Sebastián Andoney
+
+Software Engineer
+
+Building Kustika
+
+TypeScript · Fastify · Angular · PostgreSQL · Google Cloud
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  <div align="center">
 
 # Sebastián Andoney
