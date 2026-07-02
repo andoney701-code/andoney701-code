@@ -1,16 +1,15 @@
- <div align="center">
+██████████████████████████████████████████████████████████
 
-# Sebastián Andoney
+                     Sebastián Andoney
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=1200&color=4F8EF7&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+%26+Full+Stack+Developer;Building+Kustika;Designing+Scalable+Systems" />
+                   Software Engineer
 
-<br>
+             Building scalable products with
+          TypeScript • Fastify • Angular • Ionic
 
-*"Build products. Design systems. Solve problems."*
+                       KUSTIKA
 
-</div>
-
----
+██████████████████████████████████████████████████████████
 
 ## whoami
 
