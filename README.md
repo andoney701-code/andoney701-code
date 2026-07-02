@@ -1,197 +1,121 @@
-██████████████████████████████████████████████████████████
-
-                     Sebastián Andoney
-
-                   Software Engineer
-
-             Building scalable products with
-          TypeScript • Fastify • Angular • Ionic
-
-                       KUSTIKA
-
-██████████████████████████████████████████████████████████
-
-## whoami
-
-```ts
-const sebastian = {
-    name: "Sebastián Andoney",
-    role: "Software Engineer",
-    location: "Mexico",
-    currentProject: "Kustika",
-
-    interests: [
-        "Backend Engineering",
-        "Software Architecture",
-        "Cloud",
-        "Mobile Development",
-        "System Design"
-    ],
-
-    currentlyLearning: [
-        "Distributed Systems",
-        "Cloud Architecture",
-        "Performance Optimization"
-    ]
-}
-```
-
----
-
-# Current Project
-
-## 🎟️ Kustika
-
-A modern platform built to simplify event management from start to finish.
-
-```text
-Modules
-──────────────────────────────────────────────
-
-✓ Authentication
-✓ Role Based Access Control
-✓ Event Management
-✓ Ticket Sales
-✓ QR Ticket Validation
-✓ Administrative Dashboard
-✓ Mobile Application
-✓ REST APIs
-✓ PostgreSQL
-✓ Google Cloud
-```
-
----
-
-# Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,fastify,postgres,angular,ionic,docker,git,github,gcp,vscode,postman&perline=6"/>
+# 👋 Hola, soy Sebastián Andoney
+
+### Software Engineer | Full Stack Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;TypeScript+Enthusiast;Building+Kustika;Fastify+%7C+Angular+%7C+Ionic+%7C+PostgreSQL" />
 
 </div>
 
 ---
 
-# Architecture
+## 💻 Sobre mí
 
-```text
-                   Users
-                     │
-         ┌───────────┴───────────┐
-         │                       │
-         ▼                       ▼
+Soy desarrollador Full Stack apasionado por crear aplicaciones escalables y con una buena arquitectura.
 
-    Angular Dashboard      Ionic Mobile
+Actualmente estoy desarrollando **Kustika**, una plataforma enfocada en la administración de eventos, venta de boletos y control de accesos.
 
-         │                       │
-         └───────────┬───────────┘
-                     │
-               REST API (Fastify)
-                     │
-        Authentication • RBAC • Business Logic
-                     │
-               PostgreSQL Database
-                     │
-               Google Cloud Platform
-```
+Me gusta construir software limpio, seguro y fácil de mantener utilizando tecnologías modernas.
 
 ---
 
-# Current Focus
+## 🚀 Proyecto principal
 
-```yaml
-Backend:
-  - REST APIs
-  - Authentication
-  - Authorization
-  - Clean Architecture
+# 🎟️ Kustika
 
-Frontend:
-  - Angular
-  - Ionic
+Actualmente desarrollo una plataforma completa para eventos que incluye:
 
-Infrastructure:
-  - Docker
-  - Google Cloud
-
-Databases:
-  - PostgreSQL
-  - Kysely ORM
-```
+- 🔐 Autenticación con JWT
+- 👥 Gestión de usuarios y roles
+- 🎫 Venta y administración de boletos
+- 📱 Aplicación móvil
+- 🌐 Panel administrativo
+- 📷 Validación mediante QR
+- 📊 Dashboard
+- ☁️ Despliegue en Google Cloud
 
 ---
 
-# GitHub Analytics
+# 🛠 Tecnologías
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,nodejs,fastify,postgres,docker,git" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,ionic,html,css,js" />
+</p>
+
+### Herramientas
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,github,postman,firebase,gcp" />
+</p>
+
+---
+
+# 📊 GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=andoney701-code&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=andoney701-code&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andoney701-code&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andoney701-code&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
+# 🔥 Racha de contribuciones
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=andoney701-code&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=andoney701-code&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# Engineering Principles
-
-```text
-• Design before coding.
-
-• Simplicity scales better than complexity.
-
-• Good architecture outlives frameworks.
-
-• Code should be readable before being clever.
-
-• Software exists to solve problems,
-  not to impress developers.
-```
-
----
-
-# Current Goals
-
-```text
-[✓] Build scalable backend systems
-[✓] Improve software architecture skills
-[✓] Master Google Cloud Platform
-[ ] Contribute to Open Source
-[ ] Learn Kubernetes
-```
-
----
-
-# Find me
+# 📈 Actividad
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andoney701-code&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=andoney701-code&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🌎 Conecta conmigo
+
+<p align="center">
 
 <a href="https://github.com/andoney701-code">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-### Thanks for stopping by.
-
-*"Code is temporary. Good engineering lasts."*
+### 🚀 Siempre aprendiendo y construyendo mejores soluciones.
 
 </div>
+
